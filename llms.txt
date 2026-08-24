@@ -1,0 +1,26 @@
+# Polygon Swap — Polygon PoS Swap Reference
+
+> Exchange POL, USDC and tokens on Polygon PoS — the low-fee EVM network — through a non-custodial decentralized exchange. Independent, not affiliated with Polygon Labs.
+
+## Key Facts
+- Asset: POL — native gas and staking token of Polygon PoS (replaced MATIC in the migration)
+- Network: Polygon PoS (EVM-compatible, low fees)
+- Gas: paid in POL
+- Custody: non-custodial — swaps settle through public smart contracts; wallet signs
+- Approvals: buying a token with native POL needs no approval; selling an ERC-20 needs a one-time approval
+- Costs: DEX pool fee + network gas (POL) + price impact; gas usually very low
+- Common route: POL -> USDC / stablecoins / tokens
+- Independent resource — NOT affiliated with or endorsed by Polygon Labs
+
+## Internal Sections & App Navigation
+- [What is Polygon Swap?](#what)
+- [How Polygon swaps work](#how)
+- [POL & the MATIC migration](#pol)
+- [Polygon PoS network](#network)
+- [Fees, gas & price impact](#fees)
+- [Is it safe?](#safety)
+- [FAQ](#faq)
+- [Open Polygon Swap App](dashboard/index.html)
+
+## Disclaimer
+Independent page. Not affiliated with or endorsed by Polygon Labs. Not financial advice.

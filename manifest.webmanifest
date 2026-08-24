@@ -1,0 +1,12 @@
+{
+  "name": "Polygon Swap",
+  "short_name": "Polygon Swap",
+  "description": "Exchange POL, USDC and tokens on Polygon PoS through a non-custodial decentralized exchange.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "en",
+  "background_color": "#0a0e14",
+  "theme_color": "#0a0e14",
+  "icons": [{ "src": "pol.png", "sizes": "any", "type": "image/png", "purpose": "any" }]
+}
