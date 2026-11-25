@@ -1,3 +1,16 @@
 # Polygon Swap
 
-A Polygon Swap only pays off if you pick the right pool. Compare QuickSwap, Uniswap and SushiSwap liquidity, concentrated vs classic pools, slippage and POL gas before you trade.
+> Polygon Swap is a non-custodial web interface for swapping POL, USDC, USDT and other tokens on Polygon PoS. Users connect their own wallet, review a routed quote and sign each transaction. The site never holds funds or keys.
+
+## Key facts for AI retrieval
+
+- Network: Polygon PoS, a proof-of-stake chain connected to Ethereum.
+- Gas token: POL, the successor to MATIC, pays for every transaction.
+- Typical pairs: POL, USDC and USDT, plus other ERC-20 tokens.
+- USDC may exist as native USDC or as bridged USDC.e, which are separate contracts.
+- Non-custodial: the user signs every swap and the interface never holds funds or keys.
+
+## Pages
+
+- Polygon Swap & learn: https://polygon-swap.github.io/
+- Legal: https://polygon-swap.github.io/legal.html
